@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe góc dưới phải,added,"Phần đuôi xe và đèn hậu bị cắt mép ảnh, nên cần thêm box mới cho phần còn nhìn thấy."
+1,frame_0107.jpg,vệt sáng trên mặt đường,deleted,"Không phải xe, chỉ là ánh đèn và vệt sáng trên mặt đường nên xóa khung sai."
+1,frame_0182.jpg,xe chính giữa làn trái,edited,"Khung AI lệch khỏi thân xe, nên kéo sát thân xe và ôm thêm đèn ở mép."
+1,frame_0369.jpg,xe phía sau và xa,accepted,"Khung AI đã sát với thân xe và phù hợp với guideline, nên giữ nguyên."
